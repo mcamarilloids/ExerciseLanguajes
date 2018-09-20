@@ -25,11 +25,10 @@
 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/welcome_btn_top_margin"
+        android:background="@drawable/border_white_button"
         android:text="@string/enter"
-        android:textSize="@dimen/welcome_btn_size"
         android:textColor="@android:color/white"
-        android:background="@drawable/border_white_button" />
+        android:textSize="@dimen/welcome_btn_size" />
 </RelativeLayout>
