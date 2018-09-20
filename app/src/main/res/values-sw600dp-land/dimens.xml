@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="welcome_txt_top_margin">100dp</dimen>
-    <dimen name="welcome_btn_top_margin">250dp</dimen>
+    <dimen name="welcome_btn_top_margin">280dp</dimen>
     <dimen name="welcome_txt_size">64sp</dimen>
     <dimen name="welcome_btn_size">32sp</dimen>
 </resources>
